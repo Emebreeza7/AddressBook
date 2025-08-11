@@ -17,3 +17,16 @@ A command line Address Book application in C for creating , searching , editing 
 # Requirements :
        1 . GCC complier (Version 9.0 or later recommended)
        2 . Works on Windows , Linux and macOs.
+       
+# Installation & Setup :
+      1 . Download or Clone the Repository
+          Option 1 : Download ZIP
+            1 . Click the Code button in this repository.
+            2 . Select Download ZIP and extract it to your desired folder.
+          Option 2 : Clone with Git
+             git clone https://github.com.EmeBreeza/AddressBook.git
+
+      2 . How to complie :  gcc *.c -o addressbook
+
+# Usage : 
+     1 . How to run the program : ./addressbook
