@@ -29,4 +29,16 @@ A command line Address Book application in C for creating , searching , editing 
       2 . How to complie :  gcc *.c -o addressbook
 
 # Usage : 
-     1 . How to run the program : ./addressbook
+      1 . How to run the program : ./addressbook
+
+#Example Input and Output : 
+
+#File Structure : 
+
+# Future Improvements : 
+      1 . Add search by multiple criteria (eg : name + city).
+      2 . Implement sorting by name , phone number or date added.
+      3 . Enable import / export to CSV or Excel files.
+      4 . Add password protection for the address book file.
+      5 . Include contact groups (e.g., Family, Work, Friends).
+      6 . Add Birthday reminders.
